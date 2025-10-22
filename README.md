@@ -668,25 +668,25 @@ Coral-ROV/
 <table>
 <tr>
 <td align="center" width="25%">
-<b>Team Member 1</b><br>
+<b>Deng wenjie</b><br>
 <i>Project Lead</i><br>
 Mechanical Design & System Integration<br>
 📧 <a href="dengwenjie@stu.ouc.edu.cn">Email</a>
 </td>
 <td align="center" width="25%">
-<b>Team Member 2</b><br>
+<b>Chang jiawei</b><br>
 <i>Embedded Systems Engineer</i><br>
 STM32 Firmware & PCB Design<br>
 📧 <a href="lihao@stu.ouc.edu.cn">Email</a>
 </td>
 <td align="center" width="25%">
-<b>Team Member 3</b><br>
+<b>Li Jiayi</b><br>
 <i>Computer Vision Specialist</i><br>
 SLAM & Image Stitching Algorithms<br>
 📧 <a href="lijiayi@stu.ouc.edu.cn">Email</a>
 </td>
 <td align="center" width="25%">
-<b>Team Member 4</b><br>
+<b>Wang Shuxin</b><br>
 <i>Marine Biology Advisor</i><br>
 Coral Ecology & Field Testing<br>
 📧 <a href="wangshuxin@stu.ouc.edu.cn">Email</a>
@@ -698,7 +698,7 @@ Coral Ecology & Field Testing<br>
 
 **Prof. [Dalei Song、 Qi Chen]**  
 College of Engineering, Ocean University of China  
-📧 advisor@ouc.edu.cn  
+📧 DaleiSong@ouc.edu.cn  
 *Research Focus: Underwater Robotics, Autonomous Marine Systems*
 
 ---
@@ -719,7 +719,7 @@ College of Engineering, Ocean University of China
 - [ORB-SLAM3](https://github.com/UZ-SLAMLab/ORB_SLAM3) - Visual-inertial SLAM framework
 - [OpenCV](https://opencv.org/) - Computer vision library
 - [Qt](https://www.qt.io/) - Cross-platform GUI framework
-- [STM32CubeMX]([https://www.st.com/stm32cube](https://drive.google.com/file/d/1do8jsqQFJE7Os8NX1kR9KOtKU1SSkzjv/view?usp=sharing)) - STM32 code generation tool
+- [STM32CubeMX]([https://www.st.com/stm32cube]) - STM32 code generation tool
 
 **Special Thanks**:
 - Local dive teams for operational guidance and safety protocols
