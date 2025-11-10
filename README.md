@@ -747,20 +747,11 @@ If you use this work in your research, please cite:
 ```
 
 **Related Publications**:
-- [Team Members]. "Underwater Image Enhancement and Stitching for ROV Applications." *IEEE OCEANS Conference*, 2024. [Link to paper]
+- [Team Members]. "Underwater Image Enhancement and Stitching for ROV Applications." *IEEE OCEANS Conference*, 2025. [Link to paper]
 - [In preparation] "Semantic SLAM for Coral Reef Mapping and Navigation"
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-**Patent Status**: Provisional patent filed for tri-lock nursery grid system (CN202XXXXXXX.X)
-
-**Commercial Use**: Permitted under MIT License. For partnership or licensing inquiries, please contact the team directly.
-
----
 
 ## 📞 Contact
 
