@@ -4,7 +4,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Prototype-blue)](https://github.com/YourUsername/Coral-ROV)
 [![University](https://img.shields.io/badge/University-Ocean%20University%20of%20China-blue)](http://www.ouc.edu.cn/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
 
 **瑚瑚生威 (Tiger Coral Power) - Autonomous Underwater Vehicle for Coral Reef Restoration**
 
